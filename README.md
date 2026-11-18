@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sachin Kumar Singh
 ==========================================================================================================================================
 
-Full Stack Developer
+Project Manager - Embedded technologies
 --------------------
 
-Passionate about building end-to-end solutions that make an impact. I thrive on crafting intuitive front-end experiences and developing robust back-end services. From designing responsive user interfaces to architecting scalable server-side logic, I love every step of the development journey.
+Passionate about building end-to-end solutions that make an impact. I thrive on crafting intuitive front-end experiences and developing robust back-end services. Architecting the strategy to develop the end to end solution from embedded to a full live product.
 
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio at [MyPortfolio](https://sachin-portfolio-reactjs.vercel.app/)
 * ✉️  You can contact me at [sachinkrsingh20@gmail.com](mailto:sachinkrsingh20@gmail.com)
-* 🧠  I'm learning node.js framework
-* 🤝  I'm open to collaborating on Full Stack Projects
+* 🧠  I have learned technologies stack, Database technologies, Management and market research that helped me grow in my career.
+* 🤝  I'm open to collaborating on strategizing new products.
 
 ### Skills
 
